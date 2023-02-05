@@ -3,5 +3,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudynakodach&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Latest projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rudynakodach&repo=WebhookIntegrations)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rudynakodach&repo=BlockBreakers)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rudynakodach&repo=WebhookIntegrations&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rudynakodach&repo=BlockBreakers&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
