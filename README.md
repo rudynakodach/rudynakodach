@@ -1,4 +1,4 @@
-<h3 align="center">Software Developer from Poland.</h3>
+<h3 align="left">rudynakodach - Software Developer from Poland.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudynakodach&label=Profile%20views&color=0e75b6&style=flat" alt="rudynakodach" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -8,10 +8,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudynakodach&show_icons=true&locale=en&theme=dark" alt="rudynakodach" /></p>
 
-## My GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rudynakodach&theme=dark&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rudynakodach&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Latest projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rudynakodach&repo=JMP&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rudynakodach&repo=WebhookIntegrations&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">Pinned work</h3>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rudynakodach&repo=JMP&theme=dark" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rudynakodach&repo=WebhookIntegrations&theme=dark" />
+</p>
